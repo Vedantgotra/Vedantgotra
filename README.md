@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,Data Structure**
 
-- 💬 Ask me about C ,C++,Java **C ,C++,Java**
+- 💬 Ask me about  **C ,C++,Java**
 
 - 📫 How to reach me **vedant2124mca1015@kiet.edu**
 
