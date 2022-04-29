@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vedant2124mca1015@kiet.edu**
 
-- 📄 Know about my experiences [https://vedantgotra.github.io/resume/](https://vedantgotra.github.io/resume/)
+- 📄 Know About my experiences [https://vedantgotra.github.io/resume/](https://vedantgotra.github.io/resume/)
 
 - ⚡ Fun fact **I Can Play And Sing A Song!!!**
 
