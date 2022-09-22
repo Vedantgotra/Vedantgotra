@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Java,Android**
 
-- 🌱 I’m currently learning **Flutter,Data Structure**
+- 🌱 I’m currently learning **Web Devlopment,Data Structure**
 
 - 💬 Ask me about  **C ,C++,Java**
 
